@@ -1,0 +1,2 @@
+# componentsMantigi
+Created with CodeSandbox
